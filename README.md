@@ -20,6 +20,4 @@ Run the tests:
 npx playwright test
 ```
 
-Notes
-- The sentence examples were inferred from typical assignment sentence-structure patterns (user chose to proceed without uploading the PDF). I created new sentences that follow those structures rather than copying any PDF examples.
-- If you upload `Assignment 1.pdf` later I can refine test sentences to match its exact patterns and replace any inferred cases.
+
